@@ -29,7 +29,7 @@ Robotic arm with vacuum suction pump controlled by Arduino. The robotic arm has 
 - 1x Power Drill: https://bit.ly/39WOa1r
 - 3 in 1 Jumper Wire: http://bit.ly/2J6de9E
 # Connections
-![](connections_png.png) </br></br>
+![](Connections_png.png) </br></br>
 **Potentiometers:** </br>
 Pot 1 - Analog 0 </br>
 Pot 2 - Analog 1 </br>
